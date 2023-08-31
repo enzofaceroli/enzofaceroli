@@ -20,5 +20,5 @@
 
 ### 🇧🇷 Graduando em ciência da computação pela Universidade Federal de Juiz de Fora
 
-### 🇺🇸 Computer science undergraduate for the Federal University of Juiz de Fora
+### 🇺🇸 Computer science undergraduate at the Federal University of Juiz de Fora
 
